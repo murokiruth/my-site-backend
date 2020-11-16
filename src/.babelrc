@@ -1,0 +1,4 @@
+//will tell babel how we want it to transform the ES6 code we write into the comoom JS code that Node.js can execute//
+{
+    "presets": ["@babel/preset-env"]
+}
